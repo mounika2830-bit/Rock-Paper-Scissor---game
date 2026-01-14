@@ -1,0 +1,1 @@
+Designed and implemented a Python-based Rock–Paper–Scissors game using the Tkinter library. Included features such as user input validation, multiple rounds, score tracking, and result display. Improved logical thinking and understanding of control flow, functions, and loops.
